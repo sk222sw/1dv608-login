@@ -7,7 +7,9 @@ Running application can be found here: [Assignment 2](http://phplogin.herokuapp.
 Login functionality with pre-made user(Admin, Password).
 Sessions used to make sure the user stays logged in during his session on the site.
 
-TODO: Cookies to stay logged in after the session closes.
+TODO: 
+- Cookies to stay logged in after the session closes.
+- Post-Redirect-get
 
 ## Assignment 4
 TODO
